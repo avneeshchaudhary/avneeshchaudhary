@@ -1,4 +1,7 @@
 <div align="center">
+<img width="100%" height = "250px" src="https://static.wikia.nocookie.net/9122ab09-b496-4d2c-b93c-2f2e9a32652f" alt="cover" />
+</div>
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
