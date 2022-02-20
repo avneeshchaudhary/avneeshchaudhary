@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -36,7 +36,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -53,10 +53,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -87,7 +83,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneeshchaudhary&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneeshchaudhary&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -101,10 +97,10 @@
 
 <br/>  
 
-<div align="center">
+<details><div align="center">
 <img src="https://komarev.com/ghpvc/?username=avneeshchaudhary&&style=flat-square" align="center" />
 </div>  
-  
+</details>  
 
 <br/>  
 
